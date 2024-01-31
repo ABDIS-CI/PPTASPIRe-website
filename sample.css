@@ -63,3 +63,29 @@ h1.ex1 {
   margin-top: 2px;
 }
 </style>
+
+<video width="300" height="190" controls loop>
+  <source src="file:///F:/website/CI%20FINAL/1-Video-web.mp4">
+</video>
+
+   
+  </div>
+</div>  
+  </div>
+  <div class="column">
+  <a href="file:///F:/website/CI%20FINAL/Illustrations-1.html"><img src="file:///C:/Users/Teacher/Documents/website/drawing%201.png" width="150" height="190" alt="Klematis"></h2></a>
+  <a href="file:///C:/Users/Teacher/Documents/website/lineart.html"><img src="file:///C:/Users/Teacher/Documents/website/drawing%202.png" width="150" height="190" alt="Klematis"></h2></a>
+
+</div>
+  <div class="column">
+  <a href="file:///F:/website/CI%20FINAL/Reading%20Materials.html"><img src="file:///F:/website/CI%20FINAL/RM1.png" width="300" height="190" alt="Klematis"><h2></h2></a>
+  </div>
+</div>
+</style>
+
+<div footer = "footer" font-size: "10px">
+      <p>&copy; 2023 ABDIS PPT-ASPIRe </p>
+    </div>
+
+</body> 
+</html>
