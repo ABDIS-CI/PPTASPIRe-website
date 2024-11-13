@@ -84,12 +84,10 @@ h1.ex1 {
 
 <h1 style="font-family:Comic Sans MS"> SHORT STORIES </h1>
 <p align="center"> 
- </div>
- 
- <div class="container">
-      <div class="image"> <img src="https://github.com/ABDIS-CI/sample-website/blob/main/Eskwelahan-1.jpg?" height="350px"/> </div> 
-      <div class="image"> <img src="https://github.com/ABDIS-CI/sample-website/blob/main/Ang Itlog sa Sag-1.jpg?raw=true" height="350px"/> </div> 
-     <div class="image"> <img src="https://github.com/ABDIS-CI/sample-website/blob/main/Ang Salindanaw-1.jpg?raw=true" height="350px"/> </div>  
+  <div class="container">
+      <div class="image"> <img src="https://github.com/ABDIS-CI/sample-website/blob/main/Eskwelahan-1.jpg?"raw=true height="300px"/> </div> 
+      <div class="image"> <img src="https://github.com/ABDIS-CI/sample-website/blob/main/Ang Itlog sa Sag-1.jpg?raw=true" height="300px"/> </div> 
+     <div class="image"> <img src="https://github.com/ABDIS-CI/sample-website/blob/main/Ang Salindanaw-1.jpg?raw=true" height="300px"/> </div>  
      </div>
     
 <div footer = "footer" font-size: "10px">
