@@ -84,13 +84,13 @@ h1.ex1 {
 
 <h1 style="font-family:Comic Sans MS"> SHORT STORIES </h1>
 <p align="center"> 
-  <div class="column">
-      <div class="image"> <img src="https://github.com/ABDIS-CI/sample-website/blob/main/Eskwelahan-1.jpg?raw=true" height="300px"/> </div> 
-      <div class="image"> <img src="https://github.com/ABDIS-CI/sample-website/blob/main/Ang Itlog sa Sag-1.jpg?raw=true" height="300px"/> </div> 
-     <div class="image"> <img src="https://github.com/ABDIS-CI/sample-website/blob/main/Ang Salindanaw-1.jpg?raw=true" height="300px"/> </div> 
-      <div class="image"> <img src="https://github.com/ABDIS-CI/sample-website/blob/main/Payong-1.jpg?raw=true" height="300px"/> </div>  
+  <div class="container">
+      <div class="image"> <img src="https://github.com/ABDIS-CI/sample-website/blob/main/Eskwelahan-1.jpg?raw=true" height="200px"/> </div> 
+      <div class="image"> <img src="https://github.com/ABDIS-CI/sample-website/blob/main/Ang Itlog sa Sag-1.jpg?raw=true" height="200px"/> </div> 
+     <div class="image"> <img src="https://github.com/ABDIS-CI/sample-website/blob/main/Ang Salindanaw-1.jpg?raw=true" height="200px"/> </div> 
+      <div class="image"> <img src="https://github.com/ABDIS-CI/sample-website/blob/main/Payong-1.jpg?raw=true" height="200px"/> </div>  
      </div>
-    
+</style>
 <div footer = "footer" font-size: "10px">
       <p>&copy; 2023 ABDIS PPT-ASPIRe </p>
     </div>
